@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>😄 ABOUT ME</h1> 
-   <p>Web developer student 😜 <Full Stack> at <a href="https://www.rompemosloscodigos.org"> Factoria F5 </a> </p>
+   <p>Web developer student 😜 Full Stack at <a href="https://www.rompemosloscodigos.org"> Factoria F5 </a> </p>
 <h2></h2>
