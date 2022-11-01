@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>😄 ABOUT ME</h1>
-<p>Web developer student 😜 <Full Stack> at Factoria F5/p>
+<p>Web developer student 😜 <Full Stack> at Factoria F5</p>
