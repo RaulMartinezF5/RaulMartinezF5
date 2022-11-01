@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>😄 ABOUT ME</h1>
-<p>Web developer student 😜 <Full Stack> at Factoria F5</p>
+<h1>😄 ABOUT ME</h1> <p>Web developer student 😜 <Full Stack> at Factoria F5</p>
