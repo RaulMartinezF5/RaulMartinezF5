@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> ABOUT ME</h2> 
+<h1> ABOUT ME</h1> 
    <p>Web developer student 😜 Full Stack at <a href="https://www.rompemosloscodigos.org"> Factoria F5 </a> </p>
-<h3> CONTACT</h3>
-   <p> By clicking on the link you access different social networks <a href="https://linktr.ee/Rulisraulmartinez"target= "_blank"> Linktree </a> </p>
-   <img src="descargas/lintree.jpeg> 
+<h2> CONTACT</h2>
+   <p> By clicking on the link you access different social networks <a href="https://linktr.ee/Rulisraulmartinez" target="_blank"> Linktree </a> </p>
+  
