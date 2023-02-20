@@ -1,9 +1,9 @@
 
 ![IMG_2724](https://user-images.githubusercontent.com/116883797/202931142-893c0046-2fef-4022-9abd-fea1f52118c0.GIF)
 
-<h1> ABOUT ME</h1> 
+<h1> About Me </h1> 
    <p>Web developer student 😜 Full Stack at <a href="https://www.rompemosloscodigos.org"> Factoria F5 </a> </p>
-<h3> Contact Linkedin </h3>
+<h3> Linkedin Contact </h3>
 <p align="left">
 <a href="https://linkedin.com/in/raulmartinezfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raulmartinezfullstack" height="30" width="40" /></a>
 </p>   
