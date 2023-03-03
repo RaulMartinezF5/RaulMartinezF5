@@ -1,6 +1,6 @@
 ![IMG_3101](https://user-images.githubusercontent.com/116883797/222830078-fb5c5e4f-613c-4e02-bfe0-f884ec8f6200.GIF)
 
-![IMG_2724](https://user-images.githubusercontent.com/116883797/202931142-893c0046-2fef-4022-9abd-fea1f52118c0.GIF)
+
 
 <h1> About Me </h1> 
    <p>Web developer student 😜 Full Stack at <a href="https://www.rompemosloscodigos.org"> Factoria F5 </a> </p>
